@@ -54,10 +54,9 @@ cd ayurvedic-bot
 - On RAG failure, error is shown in Streamlit UI.
 
 ---
-### 🌿✅ Output :
+### 🌿✅ Output :![alt text](ayruvedic_3-1.jpg)
 
 
-
-### video link :
+### video link :https://drive.google.com/file/d/1KA6EABXfbI8HFGxgZbKyPgRkdv2fZCDO/view?usp=sharing
 
 
