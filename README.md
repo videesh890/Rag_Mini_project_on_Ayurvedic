@@ -25,8 +25,7 @@ A **Streamlit-powered web app** that allows users to query a knowledge base of *
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ayurvedic-bot.git
-cd ayurvedic-bot](https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic)
+git clone https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic
 
 
 ### 🧩 Architecture
