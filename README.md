@@ -53,7 +53,8 @@ git clone https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic
 - On RAG failure, error is shown in Streamlit UI.
 
 ---
-### 🌿✅ Output :![alt text](ayruvedic_3-1.jpg)
+### 🌿✅ Output :![alt text](ayruvedic_3.jpg)
+
 
 
 ### video link :https://drive.google.com/file/d/1KA6EABXfbI8HFGxgZbKyPgRkdv2fZCDO/view?usp=sharing
