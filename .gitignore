@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# VSCode or other IDE settings (optional)
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data folders that are large or private (optional)
+data/
+chroma_ayurved*/  # if this is generated or large, otherwise remove this line
+
+# Jupyter Notebook checkpoints (if using notebooks)
+.ipynb_checkpoints/
