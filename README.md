@@ -54,8 +54,7 @@ git clone https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic
 
 ---
 ### 🌿✅ Output :
-https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic/blob/main/output_img.png
-
+![alt text](output_img.png)
 
 
 ### video link :https://drive.google.com/file/d/1KA6EABXfbI8HFGxgZbKyPgRkdv2fZCDO/view?usp=sharing
