@@ -27,7 +27,7 @@ A **Streamlit-powered web app** that allows users to query a knowledge base of *
 ```bash
 git clone https://github.com/videesh890/Rag_Mini_project_on_Ayurvedic
 
-
+```
 ### 🧩 Architecture
 
 1. **Frontend**: `Streamlit` interface in `app.py`.
