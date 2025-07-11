@@ -20,6 +20,7 @@ A **Streamlit-powered web app** that allows users to query a knowledge base of *
 
 ## 🛠️ Setup Instructions
 1.first run the vector_store.py
+
 2.Then Run the streamlit run app.pys
 
 ### 1. Clone the Repository
